@@ -7,6 +7,8 @@
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # this code is not isotype-HDR specific, regions of HDRs from one isotype #
 # were removed in all isotypes whether or not that region had those HDRs  #
+# additionally hard.filter isotype was not filtered to only include       #
+# bi-allelic SNVs                                                         #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 # Step 1
