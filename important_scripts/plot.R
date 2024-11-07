@@ -1,6 +1,7 @@
-# dry lab project microRNA variants in VCF file 
+# Dry lab project microRNA variants in VCF file 
 # rotation 1 - Andersen
-# 2024 October
+# Mentor - Lance O'Connor
+# 2024 October-November
 # Tabor Roderiques
 
 # Set working direction and get data
